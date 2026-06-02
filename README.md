@@ -83,12 +83,13 @@ Email     : gayathrimeghanamaddireddy@gmail.com
 </div>
 
 ---
+
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
 
-<table width="100%" cellspacing="14" cellpadding="14">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="360" valign="top">
 
 ### 🔗 URL Management Application
 Manage, organize, and access URLs efficiently.
@@ -96,10 +97,13 @@ Manage, organize, and access URLs efficiently.
 [![View Project](https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GayathriMeghana/URL-Management-Application)
 
 </td>
-<td width="50%" valign="top">
+
+<td width="28"></td>
+
+<td width="360" valign="top">
 
 ### 💬 Live Chat Translator
-Real-time chat app with language translation.
+Real-time chat application with language translation.
 
 [![View Project](https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GayathriMeghana/Live-Chat-Translator)
 
@@ -107,7 +111,11 @@ Real-time chat app with language translation.
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td colspan="3" height="22"></td>
+</tr>
+
+<tr>
+<td width="360" valign="top">
 
 ### 👁️ Eye Anemia Diagnosis
 Detect signs of anemia using eye-image analysis.
@@ -115,7 +123,10 @@ Detect signs of anemia using eye-image analysis.
 [![View Project](https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GayathriMeghana/Eye-Anemia-Diagnosis)
 
 </td>
-<td width="50%" valign="top">
+
+<td width="28"></td>
+
+<td width="360" valign="top">
 
 ### ⚡ Basic JavaScript Projects
 Explore interactive JavaScript mini projects.
@@ -127,27 +138,6 @@ Explore interactive JavaScript mini projects.
 </table>
 
 <br/>
-
-
-### ⚡ Basic JavaScript Projects
-A collection of interactive JavaScript mini projects.
-
-[![View Project](https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GayathriMeghana/Basic-JS-Projects)
-
-</td>
-</tr>
-</table>
-
-<hr/>
-<!-- Activity Graph -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GayathriMeghana&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true&border_radius=10"/>
-
-</div>
-
 ---
 
 <!-- Fun Section -->
