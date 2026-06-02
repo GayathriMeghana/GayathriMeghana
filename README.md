@@ -72,18 +72,13 @@ Email     : gayathrimeghanamaddireddy@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GayathriMeghana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&border_radius=10" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayathriMeghana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&border_radius=10" height="170"/>
+![GitHub Followers](https://img.shields.io/github/followers/GayathriMeghana?style=for-the-badge&color=A855F7&labelColor=0D1117&logo=github)
+&nbsp;
+![Public Repositories](https://img.shields.io/badge/Public_Repositories-View_on_GitHub-A855F7?style=for-the-badge&labelColor=0D1117&logo=github)
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=GayathriMeghana&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&border_radius=10" height="170"/>
-
-<br/><br/>
-
-<!-- GitHub Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=GayathriMeghana&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4"/>
+<img src="https://streak-stats.demolab.com?user=GayathriMeghana&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&border_radius=10" height="170" alt="GitHub contribution streak"/>
 
 </div>
 
