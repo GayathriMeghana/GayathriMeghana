@@ -30,7 +30,7 @@ Status    : Graduated | Open To Work 🚀
 Role      : Full Stack Developer
 Stack     : Java · Spring Boot · React
 Interests : Web Apps · Backend APIs · UI/UX
-Location  : Hyderabad, India 📍
+Location  : Vijayawada, India 📍
 Email     : gayathrimeghanamaddireddy@gmail.com
 ```
 
@@ -88,7 +88,7 @@ Email     : gayathrimeghanamaddireddy@gmail.com
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
 ### 🔗 URL Management Application
 Manage, organize, and access URLs efficiently.
@@ -96,7 +96,14 @@ Manage, organize, and access URLs efficiently.
 [![View Project](https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GayathriMeghana/URL-Management-Application)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td>
 
 ### 💬 Live Chat Translator
 Real-time chat application with language translation.
@@ -111,7 +118,7 @@ Real-time chat application with language translation.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
 ### 👁️ Eye Anemia Diagnosis
 Detect signs of anemia using eye-image analysis.
@@ -119,7 +126,14 @@ Detect signs of anemia using eye-image analysis.
 [![View Project](https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GayathriMeghana/Eye-Anemia-Diagnosis)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td>
 
 ### ⚡ Basic JavaScript Projects
 A collection of interactive JavaScript mini projects.
@@ -129,8 +143,8 @@ A collection of interactive JavaScript mini projects.
 </td>
 </tr>
 </table>
----
 
+<hr/>
 <!-- Activity Graph -->
 ## 📈 Contribution Graph
 
