@@ -92,26 +92,45 @@ Email     : gayathrimeghanamaddireddy@gmail.com
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/GayathriMeghana/URL-Management-Application">
-  <img width="400" src="https://opengraph.githubassets.com/1/GayathriMeghana/URL-Management-Application"/>
-</a>
+### 🔗 URL Management Application
+Manage, organize, and access URLs efficiently.
 
-<a href="https://github.com/GayathriMeghana/Live-Chat-Translator">
-  <img width="400" src="https://opengraph.githubassets.com/1/GayathriMeghana/Live-Chat-Translator"/>
-</a>
+[![View Project](https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GayathriMeghana/URL-Management-Application)
 
-<a href="https://github.com/GayathriMeghana/Eye-Anemia-Diagnosis">
-  <img width="400" src="https://opengraph.githubassets.com/1/GayathriMeghana/Eye-Anemia-Diagnosis"/>
-</a>
+</td>
+<td width="50%" valign="top">
 
-<a href="https://github.com/GayathriMeghana/Basic-JS-Projects">
-  <img width="400" src="https://opengraph.githubassets.com/1/GayathriMeghana/Basic-JS-Projects"/>
-</a>
+### 💬 Live Chat Translator
+Real-time chat application with language translation.
 
-</div>
+[![View Project](https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GayathriMeghana/Live-Chat-Translator)
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Eye Anemia Diagnosis
+Detect signs of anemia using eye-image analysis.
+
+[![View Project](https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GayathriMeghana/Eye-Anemia-Diagnosis)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Basic JavaScript Projects
+A collection of interactive JavaScript mini projects.
+
+[![View Project](https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GayathriMeghana/Basic-JS-Projects)
+
+</td>
+</tr>
+</table>
 ---
 
 <!-- Activity Graph -->
