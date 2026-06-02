@@ -88,7 +88,6 @@ Email     : gayathrimeghanamaddireddy@gmail.com
 </div>
 
 ---
-
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
 
@@ -111,7 +110,11 @@ Real-time chat application with language translation.
 
 </td>
 </tr>
+</table>
 
+<br/>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
