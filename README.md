@@ -95,19 +95,19 @@ Email     : gayathrimeghanamaddireddy@gmail.com
 <div align="center">
 
 <a href="https://github.com/GayathriMeghana/URL-Management-Application">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GayathriMeghana&repo=URL-Management-Application&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&border_radius=10"/>
+  <img width="400" src="https://opengraph.githubassets.com/1/GayathriMeghana/URL-Management-Application"/>
 </a>
-&nbsp;
+
 <a href="https://github.com/GayathriMeghana/Live-Chat-Translator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GayathriMeghana&repo=Live-Chat-Translator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&border_radius=10"/>
+  <img width="400" src="https://opengraph.githubassets.com/1/GayathriMeghana/Live-Chat-Translator"/>
 </a>
 
 <a href="https://github.com/GayathriMeghana/Eye-Anemia-Diagnosis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GayathriMeghana&repo=Eye-Anemia-Diagnosis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&border_radius=10"/>
+  <img width="400" src="https://opengraph.githubassets.com/1/GayathriMeghana/Eye-Anemia-Diagnosis"/>
 </a>
-&nbsp;
+
 <a href="https://github.com/GayathriMeghana/Basic-JS-Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=GayathriMeghana&repo=Basic-JS-Projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&border_radius=10"/>
+  <img width="400" src="https://opengraph.githubassets.com/1/GayathriMeghana/Basic-JS-Projects"/>
 </a>
 
 </div>
