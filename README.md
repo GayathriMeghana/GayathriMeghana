@@ -86,9 +86,9 @@ Email     : gayathrimeghanamaddireddy@gmail.com
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
 
-<table width="760">
+<table width="100%" cellspacing="14" cellpadding="14">
 <tr>
-<td>
+<td width="50%" valign="top">
 
 ### 🔗 URL Management Application
 Manage, organize, and access URLs efficiently.
@@ -96,29 +96,18 @@ Manage, organize, and access URLs efficiently.
 [![View Project](https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GayathriMeghana/URL-Management-Application)
 
 </td>
-</tr>
-</table>
-
-<br>
-
-<table width="760">
-<tr>
-<td>
+<td width="50%" valign="top">
 
 ### 💬 Live Chat Translator
-Real-time chat application with language translation.
+Real-time chat app with language translation.
 
 [![View Project](https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GayathriMeghana/Live-Chat-Translator)
 
 </td>
 </tr>
-</table>
 
-<br>
-
-<table width="760">
 <tr>
-<td>
+<td width="50%" valign="top">
 
 ### 👁️ Eye Anemia Diagnosis
 Detect signs of anemia using eye-image analysis.
@@ -126,14 +115,7 @@ Detect signs of anemia using eye-image analysis.
 [![View Project](https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GayathriMeghana/Eye-Anemia-Diagnosis)
 
 </td>
-</tr>
-</table>
-
-<br>
-
-<table width="760">
-<tr>
-<td>
+<td width="50%" valign="top">
 
 ### ⚡ Basic JavaScript Projects
 Explore interactive JavaScript mini projects.
@@ -144,7 +126,7 @@ Explore interactive JavaScript mini projects.
 </tr>
 </table>
 
-<br>
+<br/>
 
 
 ### ⚡ Basic JavaScript Projects
